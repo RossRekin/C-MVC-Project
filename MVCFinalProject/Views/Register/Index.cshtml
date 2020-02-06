@@ -1,0 +1,36 @@
+﻿﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Register</h2>
+
+<div style="color: red;">
+    @if (ViewData.ContainsKey("errors"))
+    {
+        <div>
+            Password minimum length is 3 symbols. <br />
+            Password and confirm password must be equal.<br />
+        </div>
+    }
+    @if (ViewData.ContainsKey("existingUser"))
+    {
+        <div>
+            Email already exists
+        </div>
+    }
+</div>
+
+<form method="post">
+    <label>Email</label>
+    <input type="email" name="Email" class="form-control" required="required" />
+    <br />
+    <label>Password</label>
+    <input type="password" name="Password" class="form-control" required="required" />
+    <br />
+    <label>Confirm password</label>
+    <input type="password" name="cPassword" class="form-control" required="required" />
+    <br />
+    <button type="submit">Register</button>
+</form>
+

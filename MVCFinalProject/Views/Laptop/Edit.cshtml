@@ -1,0 +1,19 @@
+﻿@using MVCFinalProject.Models;
+@model Laptop
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+<form method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <label>Title</label>
+    <input type="text" name="Title" value="@Model.Title" class="form-control" />
+    <label>Description</label>
+    <textarea name="Description" class="form-control">@Model.Description</textarea>
+    <label>OS</label>
+    <input type="text" name="Os" value="@Model.Os" class="form-control" />
+    <label>Price</label>
+    <input type="number" name="Price" value="@Model.Price" class="form-control" />
+    <button type="submit">Save</button>
+</form>

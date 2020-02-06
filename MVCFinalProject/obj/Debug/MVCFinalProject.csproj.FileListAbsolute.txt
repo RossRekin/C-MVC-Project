@@ -1,0 +1,168 @@
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\MVCFinalProject.dll.config
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\MVCFinalProject.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\MVCFinalProject.pdb
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\csc.exe
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\csc.exe.config
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\csc.rsp
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\csi.exe
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\csi.exe.config
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\csi.rsp
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.AppContext.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Collections.Immutable.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Console.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.IO.Compression.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.IO.FileSystem.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.IO.Pipes.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.AccessControl.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.Claims.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.ValueTuple.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Xml.XPath.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\vbc.exe
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\vbc.exe.config
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\vbc.rsp
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\VBCSCompiler.exe
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\roslyn\VBCSCompiler.exe.config
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\Antlr3.Runtime.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\Microsoft.Web.Infrastructure.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\Newtonsoft.Json.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Diagnostics.DiagnosticSource.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.Helpers.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.Mvc.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.Optimization.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.Razor.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.WebPages.Deployment.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.WebPages.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.WebPages.Razor.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\WebGrease.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.Helpers.xml
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.Mvc.xml
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.Optimization.xml
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.Razor.xml
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.WebPages.xml
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.WebPages.Deployment.xml
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Web.WebPages.Razor.xml
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\Newtonsoft.Json.xml
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\Antlr3.Runtime.pdb
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\System.Diagnostics.DiagnosticSource.xml
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\obj\Debug\MVCFinalProject.csprojAssemblyReference.cache
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\obj\Debug\MVCFinalProject.csproj.CoreCompileInputs.cache
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\obj\Debug\MVCFinalProject.csproj.CopyComplete
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\obj\Debug\MVCFinalProject.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\obj\Debug\MVCFinalProject.pdb
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\EntityFramework.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\EntityFramework.SqlServer.dll
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\EntityFramework.xml
+D:\FMI\MVC C#\MVCFinalProject\MVCFinalProject\bin\EntityFramework.SqlServer.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\MVCFinalProject.dll.config
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\MVCFinalProject.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\MVCFinalProject.pdb
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\csc.exe
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\csc.exe.config
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\csc.rsp
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\csi.exe
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\csi.exe.config
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\csi.rsp
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.Managed.Core.targets
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.AppContext.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Collections.Immutable.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Console.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.IO.Compression.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.IO.FileSystem.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.IO.Pipes.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.AccessControl.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.Claims.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.ValueTuple.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Xml.XPath.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\vbc.exe
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\vbc.exe.config
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\vbc.rsp
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\VBCSCompiler.exe
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\roslyn\VBCSCompiler.exe.config
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\Antlr3.Runtime.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\EntityFramework.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\EntityFramework.SqlServer.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\Microsoft.Web.Infrastructure.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\Newtonsoft.Json.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Diagnostics.DiagnosticSource.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.Helpers.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.Mvc.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.Optimization.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.Razor.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.WebPages.Deployment.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.WebPages.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.WebPages.Razor.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\WebGrease.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\EntityFramework.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\EntityFramework.SqlServer.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.Helpers.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.Mvc.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.Optimization.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.Razor.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.WebPages.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.WebPages.Deployment.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Web.WebPages.Razor.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\Newtonsoft.Json.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\Antlr3.Runtime.pdb
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\System.Diagnostics.DiagnosticSource.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\obj\Debug\MVCFinalProject.csprojAssemblyReference.cache
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\obj\Debug\MVCFinalProject.csproj.CoreCompileInputs.cache
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\obj\Debug\MVCFinalProject.csproj.CopyComplete
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\obj\Debug\MVCFinalProject.dll
+D:\FMI\MVC C#\Нова папка\MVCFinalProject\MVCFinalProject\obj\Debug\MVCFinalProject.pdb

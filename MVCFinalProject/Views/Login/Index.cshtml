@@ -1,0 +1,19 @@
+﻿﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Login</h2>
+@if (ViewData.ContainsKey("wrongUser"))
+{
+    <div style="color: red">Wrong details!</div>
+}
+<form method="post">
+    <label>Email</label>
+    <input type="email" name="Email" class="form-control" required="required" />
+    <br />
+    <label>Password</label>
+    <input type="password" name="Password" class="form-control" required="required" />
+    <br />
+    <button type="submit">Login</button>
+</form>

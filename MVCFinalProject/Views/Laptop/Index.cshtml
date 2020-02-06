@@ -1,0 +1,38 @@
+﻿﻿@using MVCFinalProject.Models;
+@model List<Laptop>
+@{
+    ViewBag.Title = "Laptop";
+}
+
+<h2>Laptops</h2>
+<a href="/Laptop/Create">Add new laptop</a>
+<table class="table table-bordered">
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>OS</td>
+        <td>Price</td>
+        <td>Action</td>
+    </tr>
+    @foreach (Laptop laptop in Model)
+    {
+        <tr>
+            <td>@laptop.Id</td>
+            <td>@laptop.Title</td>
+            <td>@laptop.Description</td>
+            <td>@laptop.Os</td>
+            <td>@laptop.Price</td>
+            <td>
+                <a href="/Laptop/Edit/@laptop.Id" class="btn btn-warning">Edit</a>
+                <form method="post" action="/Laptop/Delete/@laptop.Id" style="display:inline-table">
+                    <button onclick="return confirm('Are you sure?');"
+                            type="submit" class="btn btn-danger">
+                        Delete
+                    </button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>
+

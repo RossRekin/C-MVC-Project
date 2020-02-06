@@ -1,0 +1,50 @@
+﻿@using MVCFinalProject.Models
+@model ProductViewModel
+
+@{
+    ViewBag.Title = "Smartphones";
+}
+
+<h1>MOBILE MALL</h1>
+
+<div class="container-fluid">
+    <h2>Products</h2>
+    <hr>
+    <div class="row">
+        <h3>Smartphones:</h3>
+        @foreach (var phone in Model.Smartphones)
+        {
+        <div class="col-sm-4">
+
+            <h4>@phone.Title</h4>
+            <p><i>Description:</i> @phone.Description</p>
+            <p><b>Price: @phone.Price</b></p>
+           
+        </div>
+
+
+        }
+    </div>
+</div>
+
+
+
+    <hr>
+    <div class="container-fluid">
+        <div class="row">
+        <h3>Laptops:</h3>
+        @foreach (var laptop in Model.Laptops)
+        {
+        <div class="col-sm-4">
+            <h4>@laptop.Title</h4>
+            <p><i>Description:</i>@laptop.Description</p>
+            <p>OS: @laptop.Os</p>
+            <p><b>Price: @laptop.Price</b></p>
+           
+        </div>
+        }
+
+    </div>
+
+
+</div>
